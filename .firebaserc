@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "gitaction-test-20605"
+  },
+  "targets": {},
+  "etags": {}
 }
